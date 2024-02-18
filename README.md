@@ -6,8 +6,7 @@
 ___
 
 ### My Stats:
-<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=LingExe&show_icons=true&include_all_commits=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LingExe"/></div>
-
+<div align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andylocks&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true&rank_icon=github"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andylocks&layout=compact&theme=dracula&hide_border=true&langs_count=4"/></div>
 ___
 
 ### Languages and Tools:
