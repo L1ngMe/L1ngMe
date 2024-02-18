@@ -13,6 +13,7 @@ ___
 ### Languages and Tools:
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
 </div>
