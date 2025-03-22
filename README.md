@@ -36,8 +36,7 @@ Welcome to my GitHub profile! 🚀
 ---
 
 ## 🔗 Connect With Me:
-- [LinkedIn](#)  
-- [Twitter](#)  
+- [Telegram - @Sanechka0300](#)  
 - Feel free to check out my projects and repositories! 😊  
 
 ---
