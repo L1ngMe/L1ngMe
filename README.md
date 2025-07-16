@@ -6,7 +6,6 @@ Welcome to my GitHub profile! 🚀
 ## 👨‍💻 About Me:
 - Name: **Sasha**  
 - Age: **17**  
-- Passionate about backend development, microservices, and system architecture.  
 - Always learning and exploring new technologies. 🌱  
 
 ---
